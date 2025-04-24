@@ -8,3 +8,4 @@ Use it for any game, configure the RTP (Return to Player), and build your own ba
 
 
 ![image](https://github.com/user-attachments/assets/4d670169-444a-4e18-b041-eabe04ef5f2c)
+![image](https://github.com/user-attachments/assets/0fc32cf3-d9b8-48ee-bee2-5129e6361c32)
